@@ -130,8 +130,7 @@
     "128":"Cơm không ăn, gạo còn đó",
     "129":"Gạo đổ, hót chẳng đầy thưng",
     "130":"Mất cả chì lẫn chài",
-    "131":"Được một bữa cơm người, mất mười bữa cơm nhà.
-",
+    "131":"Được một bữa cơm người, mất mười bữa cơm nhà.",
     "132":"Đã khó, chó cắn thêm",
     "133":"Biết tội đâu mà tránh, biết phúc đâu mà tìm.",
     "134":"Buồn ngủ lại gặp chiếu manh\nhay ăn làm biếng gặp anh đứng đường.",
